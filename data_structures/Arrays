@@ -1,1 +1,2 @@
-Arrays implementation using python programming.
+#Arrays implementation using python programming.
+array = [10,20,30,40,50]
